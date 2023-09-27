@@ -1,5 +1,5 @@
 # my-leetcode-sols 
 
-In python and C++ (I also want to learn more typescript (front-end), go (back-end), c (embedded))
+In python and C++
 
 I'll probably turn this into a FAQ at some point
